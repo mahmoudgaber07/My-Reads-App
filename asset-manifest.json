@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/My-Reads-App/static/css/main.6b172f89.css",
-    "main.js": "/My-Reads-App/static/js/main.094aca94.js",
+    "main.js": "/My-Reads-App/static/js/main.a2e990d5.js",
     "static/js/787.ab69a93a.chunk.js": "/My-Reads-App/static/js/787.ab69a93a.chunk.js",
     "index.html": "/My-Reads-App/index.html",
     "static/media/arrow-back.svg": "/My-Reads-App/static/media/arrow-back.392bc09c6a87f6314e8d.svg",
     "static/media/add.svg": "/My-Reads-App/static/media/add.b7fdf29fd5e2a3fea1d3.svg",
     "static/media/arrow-drop-down.svg": "/My-Reads-App/static/media/arrow-drop-down.98ef3b31dd9e657746a1.svg",
     "main.6b172f89.css.map": "/My-Reads-App/static/css/main.6b172f89.css.map",
-    "main.094aca94.js.map": "/My-Reads-App/static/js/main.094aca94.js.map",
+    "main.a2e990d5.js.map": "/My-Reads-App/static/js/main.a2e990d5.js.map",
     "787.ab69a93a.chunk.js.map": "/My-Reads-App/static/js/787.ab69a93a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b172f89.css",
-    "static/js/main.094aca94.js"
+    "static/js/main.a2e990d5.js"
   ]
 }
